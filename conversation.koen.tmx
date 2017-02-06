@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<header creationtool="mktmx" creationtoolversion="0.1" segtype="sentence" o-tmf="mktmx" adminlang="EN" srclang="ko" datatype="rtf" o-encoding="UTF-8" creationdate= "20010414T1523Z"/>
+<body>
+	<tu tuid="1"><tuv xml:lang="ko"><seg>ㄱㄱ</seg></tuv><tuv xml:lang="en"><seg>go go</seg></tuv></tu>
+	<tu tuid="2"><tuv xml:lang="ko"><seg>ㄱㄱㅆ</seg></tuv><tuv xml:lang="en"><seg>let's go go</seg></tuv></tu>
+	<tu tuid="3"><tuv xml:lang="ko"><seg>ㄱㄷ</seg></tuv><tuv xml:lang="en"><seg>wait</seg></tuv></tu>
+	<tu tuid="4"><tuv xml:lang="ko"><seg>ㄱㅅ</seg></tuv><tuv xml:lang="en"><seg>thanks</seg></tuv></tu>
+	<tu tuid="5"><tuv xml:lang="ko"><seg>간지</seg></tuv><tuv xml:lang="en"><seg>gorgeous</seg></tuv></tu>
+	<tu tuid="6"><tuv xml:lang="ko"><seg>고럼</seg></tuv><tuv xml:lang="en"><seg>sure</seg></tuv></tu>
+	<tu tuid="7"><tuv xml:lang="ko"><seg>깜놀</seg></tuv><tuv xml:lang="en"><seg>surprised</seg></tuv></tu>
+	<tu tuid="8"><tuv xml:lang="ko"><seg>ㄳ</seg></tuv><tuv xml:lang="en"><seg>thanks</seg></tuv></tu>
+	<tu tuid="9"><tuv xml:lang="ko"><seg>ㄴㄴ</seg></tuv><tuv xml:lang="en"><seg>no no</seg></tuv></tu>
+	<tu tuid="10"><tuv xml:lang="ko"><seg>레알</seg></tuv><tuv xml:lang="en"><seg>real</seg></tuv></tu>
+	<tu tuid="11"><tuv xml:lang="ko"><seg>방가</seg></tuv><tuv xml:lang="en"><seg>glad</seg></tuv></tu>
+	<tu tuid="12"><tuv xml:lang="ko"><seg>방가 방가</seg></tuv><tuv xml:lang="en"><seg>very glad to see</seg></tuv></tu>
+	<tu tuid="13"><tuv xml:lang="ko"><seg>버카충</seg></tuv><tuv xml:lang="en"><seg>Charge bus card</seg></tuv></tu>
+	<tu tuid="14"><tuv xml:lang="ko"><seg>뽀대</seg></tuv><tuv xml:lang="en"><seg>gorgeous</seg></tuv></tu>
+	<tu tuid="15"><tuv xml:lang="ko"><seg>ㅇㅇ</seg></tuv><tuv xml:lang="en"><seg>okay</seg></tuv></tu>
+	<tu tuid="16"><tuv xml:lang="ko"><seg>죽인다</seg></tuv><tuv xml:lang="en"><seg>so sick</seg></tuv></tu>
+	<tu tuid="17"><tuv xml:lang="ko"><seg>즐</seg></tuv><tuv xml:lang="en"><seg>whatever</seg></tuv></tu>
+	<tu tuid="18"><tuv xml:lang="ko"><seg>쩐다</seg></tuv><tuv xml:lang="en"><seg>tight</seg></tuv></tu>
+	<tu tuid="19"><tuv xml:lang="ko"><seg>ㅊㅋ</seg></tuv><tuv xml:lang="en"><seg>congratu</seg></tuv></tu>
+	<tu tuid="20"><tuv xml:lang="ko"><seg>추카</seg></tuv><tuv xml:lang="en"><seg>congratu</seg></tuv></tu>
+	<tu tuid="21"><tuv xml:lang="ko"><seg>ㅋㅋ</seg></tuv><tuv xml:lang="en"><seg>ha ha</seg></tuv></tu>
+	<tu tuid="22"><tuv xml:lang="ko"><seg>ㅋㅋㅋ</seg></tuv><tuv xml:lang="en"><seg>ha ha ha</seg></tuv></tu>
+	<tu tuid="23"><tuv xml:lang="ko"><seg>헐</seg></tuv><tuv xml:lang="en"><seg>sheesh</seg></tuv></tu>
+</body>
+</tmx>

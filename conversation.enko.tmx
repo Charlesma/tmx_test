@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<header creationtool="mktmx" creationtoolversion="0.1" segtype="sentence" o-tmf="mktmx" adminlang="EN" srclang="en" datatype="rtf" o-encoding="UTF-8" creationdate= "20010414T1523Z"/>
+<body>
+	<tu tuid="1"><tuv xml:lang="en"><seg>?4u</seg></tuv><tuv xml:lang="ko"><seg>질문있어?</seg></tuv></tu>
+	<tu tuid="2"><tuv xml:lang="en"><seg>10Q</seg></tuv><tuv xml:lang="ko"><seg>고맙습니다</seg></tuv></tu>
+	<tu tuid="3"><tuv xml:lang="en"><seg>2day</seg></tuv><tuv xml:lang="ko"><seg>오늘</seg></tuv></tu>
+	<tu tuid="4"><tuv xml:lang="en"><seg>A3</seg></tuv><tuv xml:lang="ko"><seg>언제, 어디서나</seg></tuv></tu>
+	<tu tuid="5"><tuv xml:lang="en"><seg>B4</seg></tuv><tuv xml:lang="ko"><seg>이전에</seg></tuv></tu>
+	<tu tuid="6"><tuv xml:lang="en"><seg>bday</seg></tuv><tuv xml:lang="ko"><seg>생일</seg></tuv></tu>
+	<tu tuid="7"><tuv xml:lang="en"><seg>bf</seg></tuv><tuv xml:lang="ko"><seg>남친</seg></tuv></tu>
+	<tu tuid="8"><tuv xml:lang="en"><seg>bff</seg></tuv><tuv xml:lang="ko"><seg>베프</seg></tuv></tu>
+	<tu tuid="9"><tuv xml:lang="en"><seg>BRB</seg></tuv><tuv xml:lang="ko"><seg>금방 돌아올께</seg></tuv></tu>
+	<tu tuid="10"><tuv xml:lang="en"><seg>cm</seg></tuv><tuv xml:lang="ko"><seg>전화해</seg></tuv></tu>
+	<tu tuid="11"><tuv xml:lang="en"><seg>cu</seg></tuv><tuv xml:lang="ko"><seg>안녕</seg></tuv></tu>
+	<tu tuid="12"><tuv xml:lang="en"><seg>cul8r</seg></tuv><tuv xml:lang="ko"><seg>나중에 봐</seg></tuv></tu>
+	<tu tuid="13"><tuv xml:lang="en"><seg>cuz</seg></tuv><tuv xml:lang="ko"><seg>왜냐하면</seg></tuv></tu>
+	<tu tuid="14"><tuv xml:lang="en"><seg>cya</seg></tuv><tuv xml:lang="ko"><seg>안녕</seg></tuv></tu>
+	<tu tuid="15"><tuv xml:lang="en"><seg>ez</seg></tuv><tuv xml:lang="ko"><seg>쉬워</seg></tuv></tu>
+	<tu tuid="16"><tuv xml:lang="en"><seg>ga</seg></tuv><tuv xml:lang="ko"><seg>먼저해</seg></tuv></tu>
+	<tu tuid="17"><tuv xml:lang="en"><seg>gf</seg></tuv><tuv xml:lang="ko"><seg>여친</seg></tuv></tu>
+	<tu tuid="18"><tuv xml:lang="en"><seg>GFI</seg></tuv><tuv xml:lang="ko"><seg>그걸 선택했어</seg></tuv></tu>
+	<tu tuid="19"><tuv xml:lang="en"><seg>HMU</seg></tuv><tuv xml:lang="ko"><seg>연락해</seg></tuv></tu>
+	<tu tuid="20"><tuv xml:lang="en"><seg>IOU</seg></tuv><tuv xml:lang="ko"><seg>신세 졌어</seg></tuv></tu>
+	<tu tuid="21"><tuv xml:lang="en"><seg>jk</seg></tuv><tuv xml:lang="ko"><seg>농담이야</seg></tuv></tu>
+	<tu tuid="22"><tuv xml:lang="en"><seg>k</seg></tuv><tuv xml:lang="ko"><seg>좋아</seg></tuv></tu>
+	<tu tuid="23"><tuv xml:lang="en"><seg>L8R</seg></tuv><tuv xml:lang="ko"><seg>나중에 이야기해</seg></tuv></tu>
+	<tu tuid="24"><tuv xml:lang="en"><seg>LOLO</seg></tuv><tuv xml:lang="ko"><seg>많은 사랑</seg></tuv></tu>
+	<tu tuid="25"><tuv xml:lang="en"><seg>LTNS</seg></tuv><tuv xml:lang="ko"><seg>오랜만이야</seg></tuv></tu>
+	<tu tuid="26"><tuv xml:lang="en"><seg>luv</seg></tuv><tuv xml:lang="ko"><seg>사랑해</seg></tuv></tu>
+	<tu tuid="27"><tuv xml:lang="en"><seg>MIA</seg></tuv><tuv xml:lang="ko"><seg>잠수</seg></tuv></tu>
+	<tu tuid="28"><tuv xml:lang="en"><seg>MYOB</seg></tuv><tuv xml:lang="ko"><seg>너 일이나 신경써</seg></tuv></tu>
+	<tu tuid="29"><tuv xml:lang="en"><seg>OMG</seg></tuv><tuv xml:lang="ko"><seg>이런 세상에</seg></tuv></tu>
+	<tu tuid="30"><tuv xml:lang="en"><seg>plz</seg></tuv><tuv xml:lang="ko"><seg>부디</seg></tuv></tu>
+	<tu tuid="31"><tuv xml:lang="en"><seg>SMH</seg></tuv><tuv xml:lang="ko"><seg>저런</seg></tuv></tu>
+	<tu tuid="32"><tuv xml:lang="en"><seg>TGIF</seg></tuv><tuv xml:lang="ko"><seg>불금</seg></tuv></tu>
+	<tu tuid="33"><tuv xml:lang="en"><seg>thx</seg></tuv><tuv xml:lang="ko"><seg>고마워</seg></tuv></tu>
+	<tu tuid="34"><tuv xml:lang="en"><seg>ttyl</seg></tuv><tuv xml:lang="ko"><seg>나중에 이야기해</seg></tuv></tu>
+	<tu tuid="35"><tuv xml:lang="en"><seg>TYSO</seg></tuv><tuv xml:lang="ko"><seg>감사합니다.</seg></tuv></tu>
+	<tu tuid="36"><tuv xml:lang="en"><seg>u</seg></tuv><tuv xml:lang="ko"><seg>너</seg></tuv></tu>
+	<tu tuid="37"><tuv xml:lang="en"><seg>ur</seg></tuv><tuv xml:lang="ko"><seg>너의</seg></tuv></tu>
+	<tu tuid="38"><tuv xml:lang="en"><seg>UW</seg></tuv><tuv xml:lang="ko"><seg>환영합니다.</seg></tuv></tu>
+	<tu tuid="39"><tuv xml:lang="en"><seg>ya</seg></tuv><tuv xml:lang="ko"><seg>알았어</seg></tuv></tu>
+	<tu tuid="40"><tuv xml:lang="en"><seg>yep</seg></tuv><tuv xml:lang="ko"><seg>알았어</seg></tuv></tu>
+	<tu tuid="41"><tuv xml:lang="en"><seg>Yolo</seg></tuv><tuv xml:lang="ko"><seg>한번 뿐인 인생!</seg></tuv></tu>
+	<tu tuid="42"><tuv xml:lang="en"><seg>yup</seg></tuv><tuv xml:lang="ko"><seg>알겠음</seg></tuv></tu>
+	<tu tuid="43"><tuv xml:lang="en"><seg>ZUP</seg></tuv><tuv xml:lang="ko"><seg>무슨 일이야?</seg></tuv></tu>
+</body>
+</tmx>
